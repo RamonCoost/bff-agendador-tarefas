@@ -1,4 +1,4 @@
-package com.javanauta.bffagendador.business;
+package com.javanauta.bffagendador.business.services;
 
 import com.javanauta.bffagendador.business.dto.in.TarefasDTORequest;
 import com.javanauta.bffagendador.business.dto.out.TarefasDTOResponse;

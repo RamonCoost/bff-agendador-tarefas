@@ -1,7 +1,7 @@
 package com.javanauta.bffagendador.controller;
 
 
-import com.javanauta.bffagendador.business.TarefaService;
+import com.javanauta.bffagendador.business.services.TarefaService;
 import com.javanauta.bffagendador.business.dto.in.TarefasDTORequest;
 import com.javanauta.bffagendador.business.dto.out.TarefasDTOResponse;
 import com.javanauta.bffagendador.business.enums.StatusNotificacaoEnum;

@@ -1,6 +1,6 @@
 package com.javanauta.bffagendador.controller;
 
-import com.javanauta.bffagendador.business.UsuarioService;
+import com.javanauta.bffagendador.business.services.UsuarioService;
 import com.javanauta.bffagendador.business.dto.in.EnderecoDTORequest;
 import com.javanauta.bffagendador.business.dto.in.LoginDTORequest;
 import com.javanauta.bffagendador.business.dto.in.TelefoneDTORequest;
